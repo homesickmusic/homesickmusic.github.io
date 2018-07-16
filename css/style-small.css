@@ -120,8 +120,8 @@
 
 /* CTA */
 
-	#cta {
-		padding: 2em 0;
+	.cta {
+		padding: 3em 0 2em 0;
 	}
 
 /* Footer */

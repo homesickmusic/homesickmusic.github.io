@@ -98,15 +98,15 @@
 
 /* CTA */
 
-	#cta {
-		padding: 2em;
+	.cta {
+		padding: 3em 0 2em 0;
 	}
 
-		#cta h2 {
+		.cta h2 {
 			display: block;
 			margin: 0 0 1em 0;
 		}
 
-		#cta .actions {
+		.cta .actions {
 			display: block;
 		}
