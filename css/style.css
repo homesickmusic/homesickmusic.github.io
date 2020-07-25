@@ -1330,6 +1330,14 @@ body.landing #skel-layers-wrapper {
   z-index: 2;
 }
 
+#banner .inner .logo {
+  background-image: url(/images/logo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 100px;
+}
+
 #banner .button {
   border-color: white !important;
   color: #ffffff !important;

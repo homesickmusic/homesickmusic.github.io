@@ -101,6 +101,10 @@ input[type="button"],
   font-size: 1.1em;
 }
 
+#banner .inner .logo {
+  background-image: url(/images/logo-small.png);
+}
+
 /* Main */
 
 #main > header {
