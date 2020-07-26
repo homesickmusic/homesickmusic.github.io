@@ -103,6 +103,7 @@ input[type="button"],
 
 #banner .inner .logo {
   background-image: url(/images/logo-small.png);
+  height: 150px;
 }
 
 /* Main */
